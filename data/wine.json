@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bergdolt Riesling",
+    "price": 5,
+    "specialPrice": 20,
+    "needsDeposit": true
+  },
+  {
+    "name": "Bergdolt Chardonnay Weißburgunder",
+    "price": 7,
+    "specialPrice": 30,
+    "needsDeposit": true
+  }
+]

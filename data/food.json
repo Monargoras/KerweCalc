@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fleischäsebrötchen",
+    "price": 4.5,
+    "specialPrice": null,
+    "needsDeposit": false
+  },
+  {
+    "name": "Lachsteller",
+    "price": 5,
+    "specialPrice": null,
+    "needsDeposit": false
+  }
+]

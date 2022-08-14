@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Helles",
+    "price": 3,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Helles Radler",
+    "price": 3,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Weizen",
+    "price": 3.5,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Weizen Radler",
+    "price": 3.5,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Erdinger alkoholfrei",
+    "price": 3,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Schöfferhofer Grapefruit",
+    "price": 2,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Apfelwein pur",
+    "price": 4,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Apfelwein gespritzt",
+    "price": 3,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Apfelwein Cola",
+    "price": 3,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Mineralwasser",
+    "price": 1.5,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Braumeister Limonade",
+    "price": 2,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Cola, Fanta, Mezzo Mix",
+    "price": 2,
+    "specialPrice": null,
+    "needsDeposit": true
+  },
+  {
+    "name": "Apfelsaftschorle",
+    "price": 2,
+    "specialPrice": null,
+    "needsDeposit": true
+  }
+]
